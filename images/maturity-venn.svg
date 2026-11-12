@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820">
+  <rect width="1200" height="820" fill="#F7F9FC"/>
+  <g font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif">
+    <text x="64" y="78" font-size="40" font-weight="700" fill="#0E1A2F">AI 应用成熟度模型</text>
+    <text x="64" y="116" font-size="21" fill="#6B7A90">六维 × 五级：值得做 · 做得出 · 用得起来</text>
+    <text x="1136" y="78" font-size="14" fill="#8494AB" text-anchor="end">v1.0</text>
+
+    <circle cx="420" cy="350" r="190" fill="#2350CB" fill-opacity="0.09" stroke="#2350CB" stroke-width="2.2"/>
+    <circle cx="780" cy="350" r="190" fill="#0C8A9C" fill-opacity="0.09" stroke="#0C8A9C" stroke-width="2.2"/>
+    <circle cx="600" cy="520" r="190" fill="#C1761B" fill-opacity="0.09" stroke="#C1761B" stroke-width="2.2"/>
+
+    <text x="300" y="312" font-size="30" font-weight="700" fill="#2350CB">值得做</text>
+    <text x="300" y="340" font-size="11" letter-spacing="1.5" fill="#7C8AA0">DESIRABILITY</text>
+    <text x="300" y="374" font-size="15" fill="#33465F">场景价值 · 创新与亮点</text>
+
+    <text x="900" y="312" font-size="30" font-weight="700" fill="#0C8A9C" text-anchor="end">做得出</text>
+    <text x="900" y="340" font-size="11" letter-spacing="1.5" fill="#7C8AA0" text-anchor="end">FEASIBILITY</text>
+    <text x="900" y="374" font-size="15" fill="#33465F" text-anchor="end">技术实现 · 完成度与细节</text>
+
+    <text x="600" y="590" font-size="30" font-weight="700" fill="#C1761B" text-anchor="middle">用得起来</text>
+    <text x="600" y="618" font-size="11" letter-spacing="1.5" fill="#7C8AA0" text-anchor="middle">VIABILITY</text>
+    <text x="600" y="652" font-size="15" fill="#33465F" text-anchor="middle">接入与可信</text>
+
+    <rect x="525" y="388" width="150" height="46" rx="23" fill="#FFFFFF" stroke="#D7E0EF"/>
+    <text x="600" y="419" font-size="20" font-weight="700" fill="#0E1A2F" text-anchor="middle">好应用</text>
+
+    <rect x="64" y="736" width="1072" height="48" rx="10" fill="#EEF3FA" stroke="#DCE5F2"/>
+    <rect x="64" y="736" width="4" height="48" rx="2" fill="#2350CB"/>
+    <text x="88" y="767" font-size="15" fill="#44526B">
+      <tspan font-weight="700" fill="#0E1A2F">地基：规划与协作</tspan>
+      <tspan>　Spec · 任务拆解 · 节奏 · 团队协作 · AI 项目管理 · 复盘</tspan>
+    </text>
+  </g>
+</svg>
