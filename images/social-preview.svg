@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <rect width="1280" height="640" fill="#F7F9FC"/>
+  <circle cx="1000" cy="320" r="250" fill="#2350CB" fill-opacity="0.035"/>
+  <g font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif">
+    <text x="80" y="102" font-size="16" letter-spacing="2.5" fill="#2350CB" font-weight="600">AI APPLICATION MATURITY MODEL</text>
+    <text x="80" y="196" font-size="64" font-weight="700" fill="#0E1A2F">AI 应用成熟度模型</text>
+    <text x="80" y="256" font-size="28" fill="#44526B">六维 × 五级 · 给 AI 应用做一次体检</text>
+    <text x="80" y="298" font-size="28" fill="#44526B">找到最弱的一环，只补那一格。</text>
+
+    <g>
+      <rect x="80" y="348" width="160" height="46" rx="23" fill="#FFFFFF" stroke="#D7E0EF"/>
+      <text x="160" y="378" font-size="20" fill="#0E1A2F" text-anchor="middle">值得做</text>
+      <rect x="256" y="348" width="160" height="46" rx="23" fill="#FFFFFF" stroke="#D7E0EF"/>
+      <text x="336" y="378" font-size="20" fill="#0E1A2F" text-anchor="middle">做得出</text>
+      <rect x="432" y="348" width="160" height="46" rx="23" fill="#FFFFFF" stroke="#D7E0EF"/>
+      <text x="512" y="378" font-size="20" fill="#0E1A2F" text-anchor="middle">用得起来</text>
+    </g>
+
+    <text x="80" y="466" font-size="19" fill="#6B7A90">0–5 分 · 整体分（均值）＋ 等级（最低项）</text>
+    <text x="80" y="576" font-size="17" fill="#8494AB">github.com/lvzhaobo/agentic-app-maturity</text>
+
+    <g transform="translate(1000,320)">
+      <polygon points="0,-42.5 36.8,-21.25 36.8,21.25 0,42.5 -36.8,21.25 -36.8,-21.25" fill="none" stroke="#E4EAF4" stroke-width="1.5"/>
+      <polygon points="0,-85 73.6,-42.5 73.6,42.5 0,85 -73.6,42.5 -73.6,-42.5" fill="none" stroke="#E4EAF4" stroke-width="1.5"/>
+      <polygon points="0,-127.5 110.4,-63.75 110.4,63.75 0,127.5 -110.4,63.75 -110.4,-63.75" fill="none" stroke="#E4EAF4" stroke-width="1.5"/>
+      <polygon points="0,-170 147.2,-85 147.2,85 0,170 -147.2,85 -147.2,-85" fill="none" stroke="#C9D5E8" stroke-width="2"/>
+      <line x1="0" y1="0" x2="0" y2="-170" stroke="#E4EAF4"/>
+      <line x1="0" y1="0" x2="147.2" y2="-85" stroke="#E4EAF4"/>
+      <line x1="0" y1="0" x2="147.2" y2="85" stroke="#E4EAF4"/>
+      <line x1="0" y1="0" x2="0" y2="170" stroke="#E4EAF4"/>
+      <line x1="0" y1="0" x2="-147.2" y2="85" stroke="#E4EAF4"/>
+      <line x1="0" y1="0" x2="-147.2" y2="-85" stroke="#E4EAF4"/>
+      <polygon points="0,-136 88.3,-51 117.8,68 0,102 -147.2,85 -117.8,-68" fill="rgba(35,80,203,0.16)" stroke="#2350CB" stroke-width="3" stroke-linejoin="round"/>
+      <g fill="#FFFFFF" stroke="#2350CB" stroke-width="3">
+        <circle cx="0" cy="-136" r="5"/>
+        <circle cx="88.3" cy="-51" r="5"/>
+        <circle cx="117.8" cy="68" r="5"/>
+        <circle cx="0" cy="102" r="5"/>
+        <circle cx="-147.2" cy="85" r="5"/>
+        <circle cx="-117.8" cy="-68" r="5"/>
+      </g>
+    </g>
+    <text x="1000" y="548" font-size="18" fill="#8494AB" text-anchor="middle">六维雷达 · L1 → L5</text>
+  </g>
+</svg>

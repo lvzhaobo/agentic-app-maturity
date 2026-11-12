@@ -244,6 +244,7 @@
 README.md                       本文件：模型正文
 examples.md                     3 个示例 × L1–L5
 images/maturity-venn.svg        三圈关系图（可编辑）
+images/social-preview.png       GitHub 社交预览（1280×640）
 CHANGELOG.md                    版本记录
 LICENSE                         MIT
 ```
